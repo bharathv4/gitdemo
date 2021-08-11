@@ -1,4 +1,4 @@
-master1
+magitgit ster1
 c
 main
 mm
